@@ -18,7 +18,7 @@ public class Variable {
 		for (int i = 0; i < 27; i++)
 		System.out.println((int) c1++);
 		// 깃에서 수정한 작업입니다.
-		System.out.println("깃에서 작업함")
+		System.out.println("깃에서 작업함");
 	}
 
 }
