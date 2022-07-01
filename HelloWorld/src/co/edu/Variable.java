@@ -17,7 +17,8 @@ public class Variable {
 		char c1 = 'A';
 		for (int i = 0; i < 27; i++)
 		System.out.println((int) c1++);
-		// 수정됨
+		// 깃에서 수정한 작업입니다.
+		System.out.println("깃에서 작업함")
 	}
 
 }
