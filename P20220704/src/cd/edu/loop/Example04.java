@@ -10,8 +10,7 @@ public class Example04 {
 		int temp = 90;
 		int inputVal = 0;
 		boolean isTrue = true;
-		int inputVal = (int) (Math.random() * 100) + 1;
-		while (true) {
+		
 
 			if (inputVal == temp) {
 				System.out.println("맞췄습니다.");
@@ -29,4 +28,4 @@ public class Example04 {
 		}
 
 	}
-}
+
