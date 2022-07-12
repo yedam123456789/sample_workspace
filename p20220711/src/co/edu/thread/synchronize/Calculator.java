@@ -4,7 +4,7 @@ package co.edu.thread.synchronize;
 public class Calculator {
 
 	private int memory;
-	
+	 
 	public int getMemory() {
 		return memory;
 	}

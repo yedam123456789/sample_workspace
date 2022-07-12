@@ -9,7 +9,7 @@ import java.util.Set;
 /*
  * 이름 점수 => map저장
  * 김민수, 80/황현익,75/이현승 88
- * Scanner 클래스입력 > 학생이름 입력 -> 점수반환.
+ * Scanner 클래스입력 > 학생이름 입력 -> 점수반환. 
  */
 public class MapExample {
 	public static void main(String[] args) {

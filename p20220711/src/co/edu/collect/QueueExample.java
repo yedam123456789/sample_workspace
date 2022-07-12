@@ -16,5 +16,5 @@ public class QueueExample {
 			String result = que.poll();
 			System.out.println(result);
 		}
-	}
+	} 
 }

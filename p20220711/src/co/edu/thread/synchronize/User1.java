@@ -12,3 +12,4 @@ public class User1 extends Thread {
 		calculator.setMemory(100);
 	}
 }
+ 

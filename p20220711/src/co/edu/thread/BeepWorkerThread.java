@@ -4,7 +4,7 @@ import java.awt.Toolkit;
 
 public class BeepWorkerThread extends Thread {
 	@Override
-	public void run() {
+	public void run() { 
 		// 스피커
 		Toolkit toolkit = Toolkit.getDefaultToolkit();
 		for (int i = 0; i < 5; i++) {
