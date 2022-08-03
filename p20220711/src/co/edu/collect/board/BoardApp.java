@@ -11,7 +11,6 @@ public class BoardApp {
 		while (true) {
 			System.out.println("1.목록 2.등록 3.조회(작성자) 4.삭제 5.종료");
 			System.out.println("선택하세요>> ");
-
 			int selectNo = Integer.parseInt(scn.nextLine());
 			if (selectNo == 1) {
 				List<Board> b = app.boardList();
